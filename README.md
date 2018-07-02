@@ -1,6 +1,6 @@
 # PROGRAMMING AND NUMERICAL METHODS
 
-## Part 2 *"NUMERICAL METHODS USING MATLAB AND MATHCAD"*
+## Part 2 *"NUMERICAL METHODS USING PYTHON"*
 
 *Manual is intended to give future engineers proper understanding of of how to use mathematical apparatus in order to solve algebraic and transcendental equations, systems of linear equations, function approximation methods, numerical integration formulae, etc. Due to accomplishing these laboratory works, students will learn how to adopt the MathCAD and MATlab mathematical packages for solving engineering and mathematical problems as well as continue building their computer culture.
 <br>  Manual incorporates real programming tasks as well as the necessary exercises and control questions. 
