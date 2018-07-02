@@ -12,14 +12,14 @@
     *"Using the Bisection Method to Solve Algebraic Equations"*   [:ru:]() [:uk:]() 
   <br><br> **Laboratory work №2** 
   <br>*"Using Chord method, Newton-Raphson Method, and Combined Method to
-Solve Algebraic Equations"*   [:ru:]() [:uk:]() 
+Solve Algebraic Equations"*   [:ru:]() [:uk:](https://github.com/arinagerasimova/Informatics/blob/master/Programming%20and%20numerical%20methods/Laboratory%20work%20№2/Lab2_Theory.ipynb) 
   <br><br> **Laboratory work №3** 
   <br>*"Using Fixed-Point Iteration Method to Solve Algebraic and Transcendental
 Equations"*  [:ru:]() [:uk:]() 
   <br><br> **Laboratory work №4** 
   <br>*"Iterative Methods for Linear System"*   [:ru:]() [:uk:]() 
   <br><br> **Laboratory work №5** 
-  <br>*"Interpolation by Polynomials. Lagrange Approximation"*   [:ru:]() [:uk:]() 
+  <br>*"Interpolation by Polynomials. Lagrange Approximation"*   [:ru:]() [:uk:](https://github.com/arinagerasimova/Informatics/blob/master/Programming%20and%20numerical%20methods/Laboratory%20work%20№5/Lab5_Theory.ipynb) 
  <br><br> **Laboratory work №6**
  <br>*"Method of Least Squares"*   [:ru:]() [:uk:]() 
  <br><br> **Laboratory work №7** 
