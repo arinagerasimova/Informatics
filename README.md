@@ -19,7 +19,7 @@ Equations"*  [:ru:]() [:uk:]()
   <br><br> **Laboratory work №4** 
   <br>*"Iterative Methods for Linear System"*   [:ru:]() [:uk:]() 
   <br><br> **Laboratory work №5** 
-  <br>*"Interpolation by Polynomials. Lagrange Approximation"*   [:ru:]() [:uk:](https://github.com/arinagerasimova/Informatics/blob/master/Programming%20and%20numerical%20methods/Laboratory%20work%20№5/Lab5_Theory.ipynb) 
+  <br>*"Interpolation by Polynomials. Lagrange Approximation"*   [:ru:]() [:uk:](https://nbviewer.jupyter.org/github/arinagerasimova/Informatics/blob/master/Programming%20and%20numerical%20methods/Laboratory%20work%20№5/Lab5_Theory.ipynb) 
  <br><br> **Laboratory work №6**
  <br>*"Method of Least Squares"*   [:ru:]() [:uk:]() 
  <br><br> **Laboratory work №7** 
