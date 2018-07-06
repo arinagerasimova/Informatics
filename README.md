@@ -12,7 +12,7 @@
     *"Using the Bisection Method to Solve Algebraic Equations"*   [:ru:]() [:uk:]() 
   <br><br> **Laboratory work №2** 
   <br>*"Using Chord method, Newton-Raphson Method, and Combined Method to
-Solve Algebraic Equations"*   [:ru:]() [:uk:](https://github.com/arinagerasimova/Informatics/blob/master/Programming%20and%20numerical%20methods/Laboratory%20work%20№2/Lab2_Theory.ipynb) 
+Solve Algebraic Equations"*   [:ru:]() [:uk:](https://nbviewer.jupyter.org/github/arinagerasimova/Informatics/blob/master/Programming%20and%20numerical%20methods/Laboratory%20work%20№2/Lab2_Theory.ipynb) 
   <br><br> **Laboratory work №3** 
   <br>*"Using Fixed-Point Iteration Method to Solve Algebraic and Transcendental
 Equations"*  [:ru:]() [:uk:]() 
